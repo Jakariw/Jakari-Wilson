@@ -1,1 +1,1 @@
-# Jakari-Wilson
+# JakariWilson
